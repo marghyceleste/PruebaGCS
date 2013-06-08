@@ -13,5 +13,10 @@ int a=2;
 int b=4;
 public void Suma(){
     System.out.println("hola que tal");
+}
+
+
+public void algo(){
+    System.out.println("WWWWWWWWWWWW");
 }         
 }
